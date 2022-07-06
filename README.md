@@ -1,4 +1,4 @@
-# MCS2022.CarVerification
+# MCS2022.CarVerification Top 2 solution. Team "MiniFlex" RostislavK RadmirZ
 
 Competition: https://ods.ai/competitions/mcs_car_verification
 
